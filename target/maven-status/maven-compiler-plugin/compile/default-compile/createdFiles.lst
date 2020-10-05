@@ -1,0 +1,9 @@
+com\telusko\demo\com\baeldung\springsoap\gen\GetCountryResponse.class
+com\telusko\demo\com\baeldung\springsoap\gen\ObjectFactory.class
+com\telusko\demo\com\baeldung\springsoap\gen\Application.class
+com\telusko\demo\com\baeldung\springsoap\gen\WebServiceConfig.class
+com\telusko\demo\com\baeldung\springsoap\gen\CountryRepository.class
+com\telusko\demo\com\baeldung\springsoap\gen\Currency.class
+com\telusko\demo\com\baeldung\springsoap\gen\Country.class
+com\telusko\demo\com\baeldung\springsoap\gen\CountryEndpoint.class
+com\telusko\demo\com\baeldung\springsoap\gen\GetCountryRequest.class
